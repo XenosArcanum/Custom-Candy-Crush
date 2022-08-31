@@ -245,5 +245,5 @@ document.addEventListener('DOMContentLoaded', () => {
         checkRowForThree()
         checkColumnForThree();
     }, 100)
-
+    
 })
